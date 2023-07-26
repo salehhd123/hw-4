@@ -57,13 +57,13 @@ Scanner inp = new Scanner(System.in);
        }
 
 //        Write a Java program to swap the first and last elements of an array and create a new array.
-//
-//        int[] num = {20, 30, 40};
-//        ArrayList <Integer> date = new <Integer> ArrayList();
-//        for(int i = num.length-1; i>=0; i--){
-//           date.add(num[i]);
-//        }
-//        System.out.println(date);
+
+       int[] num = {20, 30, 40};
+       ArrayList <Integer> date = new <Integer> ArrayList();
+       for(int i = num.length-1; i>=0; i--){
+          date.add(num[i]);
+       }
+       System.out.println(date);
 
 //        Write a Java program to find all of the longest word in a given dictionary.
 
